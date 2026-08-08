@@ -1,3 +1,3 @@
 # YOLO Test
 
-GitHub pull request workflow test.
+Small documentation improvement for testing a GitHub pull request workflow.
